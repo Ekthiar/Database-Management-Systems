@@ -1,0 +1,8 @@
+#to create database:
+    create database database_name;
+
+#to use(or enter) database;
+    use database_name;
+
+#to create table in database;
+    create table table_name;
