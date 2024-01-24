@@ -1,6 +1,9 @@
 #to create database:
     create database database_name;
 
+#to show database:
+    show database;
+    
 #to use(or enter) database;
     use database_name;
 
